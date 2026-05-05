@@ -1,2 +1,2 @@
 # Am_I
-questionnement éthique umain IA
+questionnement éthique Humain IA
